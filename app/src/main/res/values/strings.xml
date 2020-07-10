@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">عروض عقارية</string>
+    <string name="splash_text">مرحبًا بك في أكبر سوق عقاري بالمملكة العربية السعودية</string>
+    <string name="noconnectionmsg">الرجاء الإتصال بالأنترنت لإستعمال التطبيق</string>
+</resources>
